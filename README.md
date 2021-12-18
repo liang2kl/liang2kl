@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=liang2kl&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liang2kl&layout=compact)
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=liang2kl&count_private=true&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=liang2kl&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
