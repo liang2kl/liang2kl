@@ -6,4 +6,4 @@ I am a master's student at CSE, UC San Diego. My current research focuses on eff
 [Homepage](https://liang2kl.github.io) / [LinkedIn](https://www.linkedin.com/in/yesheng-liang/)
 
 **Casual Stuff**<br/>
-[Blog](https://liang2kl.github.io/blog) / [Gallery](https://liang2kl.github.io/blog) / [Coding](https://wakatime.com/@liang2kl) / [Gaming](https://backloggd.com/u/liang2kl/journal/activity/)
+[Blog](https://liang2kl.github.io/blog) / [Gallery](https://liang2kl.github.io/blog/gallery) / [Coding](https://wakatime.com/@liang2kl) / [Gaming](https://backloggd.com/u/liang2kl/journal/activity/)
